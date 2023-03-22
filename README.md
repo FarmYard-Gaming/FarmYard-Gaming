@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FarmYard-Gaming
-- 👀 I’m interested in... lots of things.
-- 🌱 I’m currently learning to code in Python.
+- 👋 Hi, I’m @FarmYard-Gaming.
+- 👀 I’m interested in... lots of things. Computers, consoles, printers (don't ask), the like.
+- 🌱 I’m currently planning to learn how to code in Python.
 - 💞️ I’m looking to collaborate on: N/A.
 - 📫 How to reach me: via Twitter, @FarmYard_Gaming.
 
