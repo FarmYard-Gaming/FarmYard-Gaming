@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @FarmYard-Gaming.
-- 👀 I’m interested in... lots of things. Computers, consoles, printers (don't ask), the like.
-- 🌱 I’m currently planning to learn how to code in Python, and maybe C++ in the future.
-- 💞️ I’m looking to collaborate on: N/A.
-- 📫 How to reach me: via Twitter, @FarmYard_Gaming, else via the other sidebar links.
+YouTuber, also present across half the Internet so call me what you want. Learning Python and looking to learn C++ later on. Eventually looking to join the console homebrew scene and contribute to other projects.
 
 <!---
 FarmYard-Gaming/FarmYard-Gaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
